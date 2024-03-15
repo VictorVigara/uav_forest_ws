@@ -4,3 +4,6 @@
 [submodule "src/realsense-ros"]
 	path = src/realsense-ros
 	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "src/teraranger_ros2"]
+	path = src/teraranger_ros2
+	url = https://github.com/simutisernestas/teraranger_ros2.git
