@@ -2,3 +2,4 @@ build/
 install/
 log/
 token.txt
+rosbags/
