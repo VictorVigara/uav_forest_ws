@@ -19,3 +19,6 @@
 [submodule "src/path_planning"]
 	path = src/path_planning
 	url = https://github.com/VictorVigara/path_planning.git
+[submodule "src/livox_ros_driver2"]
+	path = src/livox_ros_driver2
+	url = https://github.com/VictorVigara/livox_ros_driver2.git
