@@ -10,3 +10,6 @@
 [submodule "src/px4_msgs"]
 	path = src/px4_msgs
 	url = https://github.com/PX4/px4_msgs.git
+[submodule "src/mocap_optitrack"]
+	path = src/mocap_optitrack
+	url = https://gitlab.gbar.dtu.dk/s222383/mocap_optitrack.git
