@@ -16,3 +16,9 @@
 [submodule "src/octomap_mapping"]
 	path = src/octomap_mapping
 	url = https://github.com/VictorVigara/octomap_mapping.git
+[submodule "path_planning"]
+	path = path_planning
+	url = https://github.com/VictorVigara/path_planning.git
+[submodule "src/path_planning"]
+	path = src/path_planning
+	url = https://github.com/VictorVigara/path_planning.git
