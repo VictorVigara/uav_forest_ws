@@ -13,3 +13,6 @@
 [submodule "src/mocap_optitrack"]
 	path = src/mocap_optitrack
 	url = https://gitlab.gbar.dtu.dk/s222383/mocap_optitrack.git
+[submodule "src/octomap_mapping"]
+	path = src/octomap_mapping
+	url = https://github.com/VictorVigara/octomap_mapping.git
